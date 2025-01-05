@@ -1,13 +1,9 @@
-// import Count from "./count";
-import Input from './input';
-
 const Dashboard = () => {
-  return (
+return (
     <div>
-        {/* <Count/> */}
-        <Input/>
+        <h1>hey</h1>
     </div>
-  );
+)
 }
 
 export default Dashboard;
